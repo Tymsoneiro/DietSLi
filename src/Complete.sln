@@ -5,6 +5,41 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietSLi", "DietSLi\DietSLi.csproj", "{BF306BE3-9390-4A9C-A0BC-6B3AF906EA1E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{D18B4247-1C0C-4FEE-9310-5EAA8C6E21D0}"
+	ProjectSection(SolutionItems) = preProject
+		Model\Model = Model\Model
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{336A0E0E-3B9D-4CFA-B1E3-410A03147828}"
+	ProjectSection(SolutionItems) = preProject
+		View\View = View\View
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ViewModel", "ViewModel", "{62A0AF42-E45B-4424-8EF2-0047CA87E669}"
+	ProjectSection(SolutionItems) = preProject
+		ViewModel\ViewModel = ViewModel\ViewModel
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0513BA1A-B1A8-468A-8C31-F121AC7EFE81}"
+	ProjectSection(SolutionItems) = preProject
+		Services\Services = Services\Services
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{17ECFC60-DF03-404C-8DDA-9512E48D1784}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\Resources = Resources\Resources
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controls", "Controls", "{1356D9B5-206B-4F51-825C-0DB92B94EE0D}"
+	ProjectSection(SolutionItems) = preProject
+		Controls\Controls = Controls\Controls
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{3903C799-3177-4FE6-8555-109B3A8D7C5C}"
+	ProjectSection(SolutionItems) = preProject
+		Themes\Themes = Themes\Themes
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
