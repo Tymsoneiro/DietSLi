@@ -40,6 +40,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{3903C7
 		Themes\Themes = Themes\Themes
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel.Core", "ViewModel\ViewModel.Core\ViewModel.Core.csproj", "{1EE517ED-FBC4-4305-8E50-B51833B34507}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,9 +52,16 @@ Global
 		{BF306BE3-9390-4A9C-A0BC-6B3AF906EA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF306BE3-9390-4A9C-A0BC-6B3AF906EA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF306BE3-9390-4A9C-A0BC-6B3AF906EA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE517ED-FBC4-4305-8E50-B51833B34507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE517ED-FBC4-4305-8E50-B51833B34507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE517ED-FBC4-4305-8E50-B51833B34507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE517ED-FBC4-4305-8E50-B51833B34507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EE517ED-FBC4-4305-8E50-B51833B34507} = {62A0AF42-E45B-4424-8EF2-0047CA87E669}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F69128F-C0EA-455C-BA21-4EA2836FD5E0}
