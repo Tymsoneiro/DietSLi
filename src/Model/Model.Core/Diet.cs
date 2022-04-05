@@ -1,11 +1,11 @@
-﻿using Model.Core.Submodels;
+﻿using DietSLi.Model.Core.Submodels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Core
+namespace DietSLi.Model.Core
 {
     public class Diet
     {
