@@ -42,7 +42,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{3903C7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModel.Core", "ViewModel\ViewModel.Core\ViewModel.Core.csproj", "{1EE517ED-FBC4-4305-8E50-B51833B34507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.Core", "Model\Model.Core\Model.Core.csproj", "{E7AF711F-E511-4BFF-B509-994E5946804F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model.Core", "Model\Model.Core\Model.Core.csproj", "{E7AF711F-E511-4BFF-B509-994E5946804F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
