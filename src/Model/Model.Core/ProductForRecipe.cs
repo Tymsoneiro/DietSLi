@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model.Core
 {
-    internal class ProductForRecipe
+    public class ProductForRecipe
     {
         public Product? Product { get; set; }
         public int Quantity { get; set; }
