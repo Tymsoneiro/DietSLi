@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace ViewModel.Core
+namespace DietSLi.ViewModel.Core
 {
     public class ViewModelBase : INotifyPropertyChanged
     {

@@ -40,9 +40,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{3903C7
 		Themes\Themes = Themes\Themes
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModel.Core", "ViewModel\ViewModel.Core\ViewModel.Core.csproj", "{1EE517ED-FBC4-4305-8E50-B51833B34507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietSLi.ViewModel.Core", "ViewModel\ViewModel.Core\DietSLi.ViewModel.Core.csproj", "{1EE517ED-FBC4-4305-8E50-B51833B34507}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model.Core", "Model\Model.Core\Model.Core.csproj", "{E7AF711F-E511-4BFF-B509-994E5946804F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietSLi.Model.Core", "Model\Model.Core\DietSLi.Model.Core.csproj", "{E7AF711F-E511-4BFF-B509-994E5946804F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{78F5CB7E-64E6-48BE-8FB2-E2E55B5CE504}"
 EndProject

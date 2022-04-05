@@ -1,4 +1,4 @@
-﻿namespace Model.Core
+﻿namespace DietSLi.Model.Core
 {
     public class Product
     {
