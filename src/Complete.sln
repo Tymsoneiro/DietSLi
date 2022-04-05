@@ -44,6 +44,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModel.Core", "ViewModel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model.Core", "Model\Model.Core\Model.Core.csproj", "{E7AF711F-E511-4BFF-B509-994E5946804F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{78F5CB7E-64E6-48BE-8FB2-E2E55B5CE504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietSLi.Shared", "Shared\DietSLi.Shared\DietSLi.Shared.csproj", "{CE631886-E30E-4C3E-A986-05B4669A4CC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,10 @@ Global
 		{E7AF711F-E511-4BFF-B509-994E5946804F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7AF711F-E511-4BFF-B509-994E5946804F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7AF711F-E511-4BFF-B509-994E5946804F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE631886-E30E-4C3E-A986-05B4669A4CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE631886-E30E-4C3E-A986-05B4669A4CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE631886-E30E-4C3E-A986-05B4669A4CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE631886-E30E-4C3E-A986-05B4669A4CC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +77,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1EE517ED-FBC4-4305-8E50-B51833B34507} = {62A0AF42-E45B-4424-8EF2-0047CA87E669}
 		{E7AF711F-E511-4BFF-B509-994E5946804F} = {D18B4247-1C0C-4FEE-9310-5EAA8C6E21D0}
+		{CE631886-E30E-4C3E-A986-05B4669A4CC3} = {78F5CB7E-64E6-48BE-8FB2-E2E55B5CE504}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F69128F-C0EA-455C-BA21-4EA2836FD5E0}
