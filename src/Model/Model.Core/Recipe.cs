@@ -1,4 +1,5 @@
-﻿using Model.Core.Enums;
+﻿using DietSLi.Shared.Enums;
+using Model.Core.Submodels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
